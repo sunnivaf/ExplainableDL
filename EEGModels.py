@@ -1,5 +1,5 @@
 #This code is from https://github.com/vlawhern/arl-eegmodels
-import keras
+#!/usr/bin/env python
 from keras.models import Model
 from keras.layers import Dense, Activation, Permute, Dropout
 from keras.layers import Conv2D, MaxPooling2D, AveragePooling2D
